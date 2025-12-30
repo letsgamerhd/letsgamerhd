@@ -1,6 +1,6 @@
-# LetsGamerHD
+# MZW Projects
 
-![Profile views](https://komarev.com/ghpvc/?username=letsgamerhd&color=blueviolet)
+![Profile views](https://komarev.com/ghpvc/?username=mzwprojects&color=blueviolet)
 
 ## Languages and Tools
 
@@ -16,12 +16,12 @@
 
 ## GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=letsgamerhd&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mzwprojects&show_icons=true&theme=radical)
 
 ## Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=letsgamerhd&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mzwprojects&layout=compact&theme=radical)
 
 ## GitHub Contributions
 
-![Your GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=letsgamerhd&theme=radical)
+![Your GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=mzwprojects&theme=radical)
